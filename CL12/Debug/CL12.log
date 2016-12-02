@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\svc-student\desktop\cl12\cl12\main.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\svc-student\desktop\cl12\cl12\main.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\svc-student\desktop\cl12\cl12\main.cpp(78): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\svc-student\desktop\cl12\cl12\main.cpp(79): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\svc-student\desktop\cl12\cl12\main.cpp(80): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\svc-student\desktop\cl12\cl12\main.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\svc-student\desktop\cl12\cl12\main.cpp(98): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\svc-student\desktop\cl12\cl12\main.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CL12.vcxproj -> C:\Users\svc-student\Desktop\CL12\Debug\CL12.exe
+  CL12.vcxproj -> C:\Users\svc-student\Desktop\CL12\Debug\CL12.pdb (Partial PDB)
